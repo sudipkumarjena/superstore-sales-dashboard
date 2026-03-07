@@ -43,5 +43,3 @@ Sample Superstore Dataset
 ---
 ## Author
 Sudip Kumar Jena
-## Author
-Sudip Kumar
