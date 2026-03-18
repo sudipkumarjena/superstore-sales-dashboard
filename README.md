@@ -50,6 +50,14 @@ Dataset contains:
 
 ---
 
+
+## 💡 Business Impact
+- Identified low-profit categories despite high sales
+- Highlighted regional performance differences
+- Suggested pricing and discount optimization strategies
+
+
+---
 ## Tools Used
 - Power BI
 - Data Visualization
